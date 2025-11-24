@@ -14,10 +14,10 @@ const io = new Server(server, {
 
 // --- CONFIGURAÇÃO DO BANCO DE DADOS (PREENCHA AQUI) ---
 const dbConfig = {
-    host: 'SEU_IP_DA_HOSPEDAGEM', // Ex: 192.168.0.1 ou mysql.hostinger.com.br
-    user: 'SEU_USUARIO_MYSQL',
-    password: 'SUA_SENHA_MYSQL',
-    database: 'NOME_DO_BANCO' // Ex: brasilverse
+    host: 'localhost', // Ex: 192.168.0.1 ou mysql.hostinger.com.br
+    user: 'ayuvsyst_brasilverse',
+    password: 'Camille123123123@',
+    database: 'ayuvsyst_brasilverse' // Ex: brasilverse
 };
 
 let db;
